@@ -1,3 +1,5 @@
+# This is just a simple sample of how and what Genetic Algorithm can do.
+
 import random
 from math import floor
 from cmath import sin
